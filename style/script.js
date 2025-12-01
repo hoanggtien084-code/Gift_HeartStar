@@ -12,7 +12,7 @@ const messages = [
   "Tình yêu bất tận giữa các vì sao",
   "Em là ngôi sao sáng nhất",
   "Anh tỏa sáng là vì em",
-  "EmEm thật tỏa sáng trên bầu trời của anh"
+  "Em thật tỏa sáng trên bầu trời của anh"
 ];
 const fallingTexts = [];
 
@@ -288,4 +288,5 @@ createHeartStars();
 createBackgroundStars();
 
 animate();
+
 
