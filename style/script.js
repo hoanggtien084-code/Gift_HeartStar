@@ -8,11 +8,11 @@ window.removeEventListener("click", playMusicOnce);
 window.addEventListener("click", playMusicOnce);
 
 const messages = [
-  "Bi là vũ trụ của anh",
+  "Em là vũ trụ của anh",
   "Tình yêu bất tận giữa các vì sao",
-  "Bi là ngôi sao sáng nhất",
+  "Em là ngôi sao sáng nhất",
   "Anh tỏa sáng là vì em",
-  "Bi thật tỏa sáng trên bầu trời của anh"
+  "EmEm thật tỏa sáng trên bầu trời của anh"
 ];
 const fallingTexts = [];
 
@@ -288,3 +288,4 @@ createHeartStars();
 createBackgroundStars();
 
 animate();
+
